@@ -39,16 +39,4 @@
         width="221"
         height="75"/>
   </children>
-  <children
-      xsi:type="canvas:CanvasModelImage"
-      id="id-f4088b461ab34d5a8c16734590792371"
-      name="Image"
-      imagePath="images/_Did3gODaEeiKLZSTGEgXxg.png"
-      locked="true">
-    <bounds
-        x="1160"
-        y="78"
-        width="240"
-        height="59"/>
-  </children>
 </canvas:CanvasModel>
