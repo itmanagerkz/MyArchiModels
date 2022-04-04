@@ -49,4 +49,17 @@
         width="133"
         height="49"/>
   </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-1f2aae4262bb490db94e396871afb353"
+      fillColor="#ffff95"
+      content="test"
+      borderColor="#C0C0C0"
+      textPosition="1">
+    <bounds
+        x="300"
+        y="53"
+        width="75"
+        height="63"/>
+  </children>
 </canvas:CanvasModel>
