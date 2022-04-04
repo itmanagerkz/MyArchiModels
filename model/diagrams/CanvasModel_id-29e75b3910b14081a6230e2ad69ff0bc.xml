@@ -19,8 +19,7 @@
       xsi:type="canvas:CanvasModelImage"
       id="id-02bc02ddda7b464594dd1ad8d0854af1"
       name="Image"
-      imagePath="images/_p1Bo8ODZEeiKLZSTGEgXxg.png"
-      locked="true">
+      imagePath="images/_p1Bo8ODZEeiKLZSTGEgXxg.png">
     <bounds
         x="10"
         y="150"
@@ -38,5 +37,16 @@
         y="70"
         width="221"
         height="75"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-8cbefaa4f0a7424b9a442e0ce70fb39e"
+      textAlignment="1"
+      borderColor="#000000">
+    <bounds
+        x="1044"
+        y="84"
+        width="133"
+        height="49"/>
   </children>
 </canvas:CanvasModel>
